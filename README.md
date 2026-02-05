@@ -18,7 +18,7 @@ Airbnb stakeholders often struggle to answer key business questions such as:
 This project addresses these challenges by converting raw Airbnb data into actionable insights through Tableau visual analytics.
 
 ## DASHBOARD
-![Dashboard]()
+![Dashboard](https://github.com/KumarBoste/Airbnb_Data_Analysis_Dashboard/blob/main/Tableau%20Dashboard/Airbnb%20Dashboard.png)
 
 ## Dashboard Features & Visualizations
 ### Key Performance Indicators (KPIs)
